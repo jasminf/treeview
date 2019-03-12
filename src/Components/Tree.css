@@ -1,0 +1,16 @@
+
+
+.toggled-down  {
+    background-color: #ffffff;
+}
+
+.toggled-up {
+    background-color: #f8bbd0;
+}
+
+ /*
+ bonus
+.toggled-up > ul > li {
+    background-color: #7bb3cb;
+}
+*/

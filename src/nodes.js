@@ -1,7 +1,7 @@
 const nodes = [
-  {id: 0, name: 'aaa' },
-    {id: 1, name: 'bbb', parent: 0 },
-    {id: 2, name: 'ccc', parent: 0 },
+  {id: 100, name: 'aaa' },
+    {id: 1, name: 'bbb', parent: 100},
+    {id: 2, name: 'ccc', parent: 100},
   {id: 3, name: 'ddd' },
     {id: 4, name: 'eee', parent: 3},
     {id: 5, name: 'fff', parent: 3},
